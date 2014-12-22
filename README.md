@@ -18,4 +18,8 @@ Limitations
 - Not all fields are supported
 - May only work on fxos v1.3 and above. Tested on v2.0
  
+Credits
+-------
+
+- Uses Javascript vCard library from https://github.com/andrewppace/vcard-json
 
